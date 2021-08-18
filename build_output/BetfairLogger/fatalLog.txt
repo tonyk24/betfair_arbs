@@ -1,0 +1,1 @@
+[sön sep 27 09:48:28 2015] Fatal: ASSERT: "size == 0 || offset < 0 || size_t(offset) >= sizeof(QArrayData)" in file ..\..\include/QtCore/../../src/corelib/tools/qarraydata.h, line 54

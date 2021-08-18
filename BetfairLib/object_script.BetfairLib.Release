@@ -1,0 +1,15 @@
+INPUT(
+./release\betfaircontrollerlib.o
+./release\eventsapi.o
+./release\httpjsonclient.o
+./release\loginapi.o
+./release\marketbookapi.o
+./release\marketcatalogueapi.o
+./release\globalstoragemodel.o
+./release\moc_betfaircontrollerlib.o
+./release\moc_eventsapi.o
+./release\moc_httpjsonclient.o
+./release\moc_loginapi.o
+./release\moc_marketbookeapi.o
+./release\moc_marketcatalogueapi.o
+);

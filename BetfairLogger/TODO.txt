@@ -1,0 +1,14 @@
+
+
+* Interactive: EventStats
+* Interactive: EventDataConsumer
+
+* Ta inte enbart jämna bets
+* Om FAIL bet, ta mot bet för att jämna ut
+* Lägg till beräkning TG Less Equals också
+
+* Implement: Accept-Encoding: gzip, deflate ??
+
+
+* Skissa upp arkitekturen
+* h -> cpp flytta där jag har kod

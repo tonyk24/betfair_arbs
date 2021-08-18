@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sounds/Pling-KevanGC-1485374730.wav</file>
+        <file>sounds/whistle.wav</file>
+    </qresource>
+</RCC>

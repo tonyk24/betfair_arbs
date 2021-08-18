@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>jsonData/json_correctApiNgException.json</file>
+        <file>jsonData/json_listCurrentOrdersReq.json</file>
+        <file>jsonData/json_listCurrentOrdersRsp.json</file>
+        <file>jsonData/json_placeOrdersInsufficientFundsRsp.json</file>
+        <file>jsonData/json_placeOrdersInvalidBetsizeRsp.json</file>
+        <file>jsonData/json_placeOrdersReq.json</file>
+        <file>jsonData/json_placeOrdersSuccessRsp.json</file>
+        <file>jsonData/json_getAccountDetailsReq.json</file>
+        <file>jsonData/json_getAccountDetailsRsp.json</file>
+        <file>jsonData/json_getAccountFundsReq.json</file>
+        <file>jsonData/json_getAccountFundsRsp.json</file>
+    </qresource>
+</RCC>

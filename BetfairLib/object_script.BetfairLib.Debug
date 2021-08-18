@@ -1,0 +1,15 @@
+INPUT(
+./debug\betfaircontrollerlib.o
+./debug\eventsapi.o
+./debug\httpjsonclient.o
+./debug\loginapi.o
+./debug\marketbookapi.o
+./debug\marketcatalogueapi.o
+./debug\globalstoragemodel.o
+./debug\moc_betfaircontrollerlib.o
+./debug\moc_eventsapi.o
+./debug\moc_httpjsonclient.o
+./debug\moc_loginapi.o
+./debug\moc_marketbookeapi.o
+./debug\moc_marketcatalogueapi.o
+);

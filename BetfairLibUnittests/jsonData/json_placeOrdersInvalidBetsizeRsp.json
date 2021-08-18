@@ -1,0 +1,1 @@
+{"jsonrpc":"2.0","result":{"status":"FAILURE","errorCode":"BET_ACTION_ERROR","marketId":"1.120224362","instructionReports":[{"status":"FAILURE","errorCode":"INVALID_BET_SIZE","instruction":{"selectionId":1222679,"handicap":0.0,"limitOrder":{"size":1.64,"price":20.0,"persistenceType":"LAPSE"},"orderType":"LIMIT","side":"BACK"}}]},"id":1}
